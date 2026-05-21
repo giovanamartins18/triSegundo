@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    width: 200px;
+    background-color: rgb(2, 167, 167);
+    border-radius: 15px;
+}
